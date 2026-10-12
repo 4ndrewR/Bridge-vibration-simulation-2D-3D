@@ -1,0 +1,10 @@
+_pycache_/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+*.gif
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
